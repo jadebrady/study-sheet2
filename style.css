@@ -2,6 +2,7 @@ html{
     background-color: #0a0f3bf5;
 }
 img{
+    width: 100%;
     max-width:800px;
     max-height: 500px;
     border-radius: 40px;
