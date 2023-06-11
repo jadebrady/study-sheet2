@@ -2,8 +2,8 @@ html{
     background-color: #0a0f3bf5;
 }
 img{
-    width:800px;
-    height: 500px;
+    max-width:800px;
+    max-height: 500px;
     border-radius: 40px;
     box-shadow: 2px 2px 5px black;
 }
